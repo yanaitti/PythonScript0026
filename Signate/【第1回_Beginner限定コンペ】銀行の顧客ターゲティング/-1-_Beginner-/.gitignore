@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*.tmp
+*.log
+catboost_info
+catboost_info/catboost_training.json
+catboost_info/catboost_training.json
+*.tfevents
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
+catboost_info/learn/events.out.tfevents
+logs.log
